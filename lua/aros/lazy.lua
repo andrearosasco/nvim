@@ -42,5 +42,5 @@ require("lazy").setup({
     {'onsails/lspkind.nvim'},
     {'karb94/neoscroll.nvim'},
     {'itchyny/lightline.vim'},
-    {'preservim/nerdtree'}
+    {'pocco81/auto-save.nvim'},
 })
